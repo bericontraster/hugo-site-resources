@@ -1,4 +1,4 @@
-baseURL = 'https://bericontraster.github.io/thearcanix/'
+baseURL = 'https://wiki.com/'
 languageCode = 'en-us'
 title = 'Safe Net'
 
@@ -31,17 +31,17 @@ copyright = '© 2024 bericontraster. All rights reserved'
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/thearcanix/"
+    url = "/"
     weight = 1
 
   [[menu.main]]
     name = "Blog"
-    url = "/thearcanix/blog"
+    url = "/blog"
     weight = 2
 
   [[menu.main]]
     name = "CV"
-    url = "/thearcanix/cv"
+    url = "/cv"
     weight = 3
 
 
