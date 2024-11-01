@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Safe Net</title>
+    <link>https://wiki.com/blog/</link>
+    <description>Recent content in Blogs on Safe Net</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© 2024 bericontraster. All rights reserved</copyright>
+    <lastBuildDate>Wed, 09 Oct 2024 12:13:01 +0500</lastBuildDate>
+    <atom:link href="https://wiki.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Torvalds</title>
+      <link>https://wiki.com/blog/linus-torvalds/</link>
+      <pubDate>Wed, 09 Oct 2024 12:13:01 +0500</pubDate>
+      <guid>https://wiki.com/blog/linus-torvalds/</guid>
+      <description>If you are a tech nerd like me who loves Linux and wondering who made it then you are at the right place.&#xA;Linus Torvalds# Linus Torvalds was born in Helsinki, Finland in 1969. His parents were campus radicals at the University of Helsinki in the 1960s. Linus Torvalds hails from the Swedish-speaking minority community in Finland. His parents named him after Linus Pauling, the Nobel Prize-winning American chemist. However, in the book “Rebel Code: Linux and the Open Source Revolution,” he is quoted as saying that he believes he was also named after the “Peanuts” cartoon character Linus, making him “half Nobel Prize-winning chemist and half blanket-carrying cartoon character.</description>
+    </item>
+    <item>
+      <title>Validation — HackTheBox (Walkthrough)</title>
+      <link>https://wiki.com/blog/vulnlab/phantom/</link>
+      <pubDate>Wed, 09 Oct 2024 12:13:01 +0500</pubDate>
+      <guid>https://wiki.com/blog/vulnlab/phantom/</guid>
+      <description>Validation Cover Image Welcome Reader, Today we&amp;rsquo;ll hack Validation from HackTheBox. Linux &amp;ndash; Easy&#xA;Enumeration# We will start with an nmap scan.&#xA;~ $ nmap -sC -sV -A 10.10.11.116 -p1-10000 Nmap scan report for 10.10.11.116 Host is up (0.19s latency). PORT STATE SERVICE VERSION 22/tcp open ssh OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0) | ssh-hostkey: | 3072 d8:f5:ef:d2:d3:f9:8d:ad:c6:cf:24:85:94:26:ef:7a (RSA) | 256 46:3d:6b:cb:a8:19:eb:6a:d0:68:86:94:86:73:e1:72 (ECDSA) |_ 256 70:32:d7:e3:77:c1:4a:cf:47:2a:de:e5:08:7a:f8:7a (ED25519) 80/tcp open http Apache httpd 2.</description>
+    </item>
+  </channel>
+</rss>
